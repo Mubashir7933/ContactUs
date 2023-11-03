@@ -1,0 +1,793 @@
+*{
+    padding:0px;
+    margin: 0px;
+    font-family: Montserrat; 
+
+}
+
+.navbar{
+    height: 120px;
+    border: 1px solid;
+    border-color: black;
+}
+
+.heroGoverness{
+    height: 418px;
+    bottom: 0;
+    background-image: url('../src/assets/Banner.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    color: #FFF;
+
+/* Heading 1 */
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 50px; /* 125% */
+text-transform: capitalize;
+    
+}
+
+.defination{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.Points{
+    background-color: rgba(229, 222, 202, 0.80);
+    background-size: 100% 100%, 100% 100%;
+    height: 624px;
+    border: 1px solid black;
+}
+.Points h2{
+  color: white;
+ 
+}
+
+.textContainer{
+    color: #FFF;
+
+/* Heading 1 */
+border: 1px solid black;
+font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 50px; /* 125% */
+text-transform: capitalize;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.pointsContainer{
+    margin: 10px;
+    border: 1px solid red;
+    margin: 20px;
+    height: 500px;
+    justify-content: center;
+    font-weight: 700;
+    
+}
+
+.point1{
+    border: 1px solid red;
+    height: 70px;
+    padding: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.point1 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+    
+}
+
+.point2{
+
+height: 34px;
+border: 1px solid red;
+padding: 10px;
+color: white;
+display: flex;
+    align-items: center;
+
+}
+
+.point2 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.point3{
+width: 1143;
+height: 34px;
+border: 1px solid red;
+padding: 10px;
+display: flex;
+color: white;
+    align-items: center;
+}
+
+.point3 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.point4{
+width: 1186px;
+height: 70px;
+color: white;
+border: 1px solid red;
+padding-left: 7px;
+display: flex;
+    align-items: center;
+}
+
+.point4 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.point5{
+width: 1186px;
+height: 68px;
+border: 1px solid red;
+color: white;
+display: flex;
+padding-left: 7px;
+    align-items: center;
+}
+
+.point5 p{
+    margin-left: 15px;
+    color: #FFF;
+    
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.point6{
+width: 702;
+height: 34px;
+border: 1px solid red;
+padding: 10px;
+color: white;
+display: flex;
+    align-items: center;
+}
+
+.point6 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.icon{
+    border: 1px solid black;
+    width: 45px;
+    height: 26px;
+}
+
+.Point1Text{
+    border: 1px solid black;
+}
+
+.governessThree{
+    border: 1px solid black;
+    height: 700px;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+background: linear-gradient(180deg, rgba(14, 41, 69, 0.94) 99.99%, rgba(26, 60, 95, 0.00) 100%);
+}
+
+.GovPoints{
+    margin: 10px;
+    border: 1px solid red;
+    margin: 20px;
+    height: 500px;
+    justify-content: center;
+    padding-left: 90px;
+    font-weight: 700;
+}
+
+.secThreeHeading{
+    border: 1px solid white;
+    width: 375px;
+    display: flex;
+    font-weight: bolder;
+    justify-content: center;
+    color: #FFF;
+
+    color: #FFF;
+
+    /* Heading 2 */
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px; /* 77.778% */
+    letter-spacing: 1.08px;
+}
+
+.GovPoints{
+    margin: 10px;
+    border: 1px solid red;
+    margin: 20px;
+    height: 370px;
+    justify-content: center;
+    padding-left: 60px;
+    font-weight: 700;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.Salary{
+    
+    width: 305px;
+    display: flex;
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    color: white;
+    color: #FFF;
+
+/* Heading 2 */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 28px; /* 77.778% */
+letter-spacing: 1.08px;
+}
+
+.SalaryDetail{
+    
+    height: 100px;
+    display: flex;
+    margin-left:20px ;
+    font-weight: bold;
+    color: white;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.detailSecTwo{
+    width:100%;
+    height: 380px;
+     border: 1px solid rgba(0, 0, 0, 0.18);
+    background: linear-gradient(180deg, rgba(14, 41, 69, 0.94) 99.99%, rgba(26, 60, 95, 0.00) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+    
+}
+
+.details{
+    width:100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+.details p{
+    color: #FFF;
+
+/* Heading 2 */
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 77.778% */
+letter-spacing: 1.08px;
+text-align: justify;
+}
+
+.button2{
+    width: 171px;
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 5px;
+border: 0.5px solid #0A3356;
+background: #FA9E36;
+box-shadow: 0px 4px 30px -1px rgba(0, 0, 0, 0.50);
+backdrop-filter: blur(10px);
+color: #000;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 138.889% */
+cursor: pointer;
+}
+
+.SectionThreeMain{
+    background-color: rgba(13,40,69,0.9);
+    background-image: url('./assets/Background.png');
+    background-position: center left,top left;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+}
+
+.AboutUsHero{
+    height: 515px;
+    flex-shrink: 0;
+    border: 1px black solid;
+    background-image: url('./assets/About.png'); 
+     margin-top: -18px;
+
+    }
+    
+    .SecTwoCont{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    z-index: 1;
+    }
+
+.AboutUsTwo{
+    width: 990px;
+height: 480px;
+flex-shrink: 0;
+z-index: 1;
+border-radius: 40px;
+background: #0F4B7E;
+position: absolute;
+bottom: -250px;
+display: flex;
+box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.10), 0px 14px 30px 0px rgba(0, 0, 0, 0.10), 0px 222px 89px 0px rgba(0, 0, 0, 0.01), 0px 347px 97px 0px rgba(0, 0, 0, 0.00);
+}
+
+.AboutUsTwoLeft{
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+
+.AboutUsRight{
+    width: 440px;
+   
+    border-radius: 40px ;
+    position: relative;
+}
+
+.AboutImage{
+    position: absolute;
+    left: -90px;
+    top: -17px;
+}
+
+.AboutUsHeading{
+    position: absolute;
+    top: 80px;
+    width: 380px;
+    color: #FFF;
+    height: 51px;
+/* Subtitle */
+font-family: Montserrat;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; /* 112% */
+letter-spacing: 0.75px;
+}
+
+.AboutUsParagraph{
+    width: 455px;
+    height: 204px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+position: absolute;
+top: 190px;
+left: 80px;
+}
+
+.AboutUsThree{
+    border: 1px solid black;
+    height: 1400px;
+    background-color: #005e86;
+    position: relative;
+    display: flex; 
+}
+
+.AboutUsThreeLeft{
+    position: absolute;
+    border: 1px solid black;
+    width: 700px;
+    top: 490px;
+    height: 777px;
+    flex-shrink: 0;
+    z-index: 999;
+    border-radius: 40px;
+background: #0F4B7E;
+box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.10), 0px 14px 30px 0px rgba(0, 0, 0, 0.10), 0px 222px 89px 0px rgba(0, 0, 0, 0.01), 0px 347px 97px 0px rgba(0, 0, 0, 0.00);
+}
+
+.ImageContLeft{
+    width: 700px;
+    height: 702px;
+    border-radius: 40px;
+}
+
+.ImageContLeft img{
+    position: absolute;
+    top: 20px;
+}
+
+.AboutUsThreeRight{
+width: 570px;
+
+top: 430px;
+position: relative;
+
+}
+
+.ThreeRight{
+    position: relative;
+    width: 500px;
+    display: flex;
+    gap: 4px;
+}
+
+.AboutUsThreeLogo{
+    width: 50px;
+height: 25.758px;
+padding: 10px;
+}
+ 
+.AboutUsThreeHeading{
+    width: 227px;
+    height: 28px;
+    color: #FFF;
+
+/* Heading 2 */
+font-family: Montserrat;
+font-size: 19px;
+font-style: normal;
+font-weight: 300;
+line-height: 28px; /* 77.778% */
+letter-spacing: 1.08px;
+}
+
+.AboutUsThreeParagraph{
+    width: 564px;
+height: 165px;
+
+flex-shrink: 0;
+color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;  
+}
+
+.AboutUsThreeHeading{
+    width: 500px;
+    height: 28px;
+padding: 10px;
+    flex-shrink: 0;
+    color: #FFF;
+    
+    /* Body */
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px; /* 170% */
+    letter-spacing: 1px; 
+}
+
+.AboutUsThreeParagraphPointTwo{
+    width: 564px;
+height: 335px;
+flex-shrink: 0;
+color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;  
+
+}
+
+.AboutUsThreeParagraphPointThree{
+    width: 564px;
+    color: #f1f1f1;
+height: 306px;
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.PointsOfRightSide{
+    top: 5px;
+   position: absolute;
+   height: 1370px;
+   right: 30px;
+    
+}
+
+.AboutUsFour{
+    height: 232px;
+    border: 1px solid black;
+    background-color: #0A3356;
+}
+
+.fourParagraph{
+    width: 1281px;
+height: 70px;
+flex-shrink: 0;
+color: #FFF;
+padding-top: 20px;
+display: flex;
+justify-content: center;
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.buttonFour{
+display: flex;
+padding-top: 20px;
+justify-content: center;
+}
+
+.ContactUs{
+display: flex;
+height: 1000px;
+width: 100%;
+justify-content: space-around;
+background-image:url('./assets/Group\ 212.png') ;
+}
+
+.RightContactUs{
+    margin-top: -10px ;
+    height: 153vh;
+    margin-right: -80px;
+    background-repeat: no-repeat;
+    width: 50%;
+    border: 1px solid black;
+}
+
+.RightImageContainer{
+    height: 140vh;
+    border-radius: 30px;
+    background-image: url('./assets/Rectangle\ 82.png');
+}
+
+.ContactImageContainer{
+    
+height: 100%;
+flex-shrink: 0;
+}
+
+.LeftContactUs{
+    width: 20%;
+    height: 1px;
+
+}
+
+.LeftParentContainer{
+    height: 20vh;
+    margin: 40px;
+    border: 1px solid #eee;
+    width: 400px;
+}
+
+.headingContactUs{
+    border: 1px solid rgb(250, 245, 245);
+    
+height:118px;
+flex-shrink: 0;
+gap: 10px;
+
+}
+
+.headingContactUs h2{
+    color: rgb(250, 245, 245);
+    height: 30px;
+    width: 480px;
+border: 1px solid black;
+/* Subheading 1 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 47px; /* 195.833% */
+letter-spacing: 0.24px;
+padding-bottom: 30px;
+}
+
+.LeftParentContainer p{
+    width: 420px;
+    border: 1px solid black;
+    color: #5b0000;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+color: #FFF;
+}
+
+.Form{
+    border: 1px solid black;
+    height: 882px;
+}
+.FormGorup{
+    display: flex;
+    flex-direction: column;
+    height:87px;
+    width:441px;
+    align-items: start;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+.FormGorup label{
+    color: #D9D9D9;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 5px;
+}
+.FormGorup input{
+    width:100%;
+    height:50px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid rgba(217, 217, 217, 1);
+    background: transparent;
+    text-indent: 10px;
+}
+
+.FormGorup #messageInput{
+    display: flex;
+width: 441px;
+height: 126px;
+padding: 10px;
+align-items: flex-start;
+gap: 10px;
+}
+
+.pointsText{
+    border: 1px solid black;
+    height: 300px;
+    width: 600px;
+}
+
+.pointsText p{
+    width: 316px;
+    color: #FFF;
+font-family: Montserrat;
+font-size: 19px;
+font-style: normal;
+font-weight: 600;
+line-height: 47px; /* 213.636% */
+letter-spacing: 0.88px;
+}
+
+.formBelow{
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+
+.formBelow input{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+Formgroup{
+    width: 100%;
+    display: flex;
+}
+
+Formgroup .belowLabel{
+    border: 1px solid black;
+}
+

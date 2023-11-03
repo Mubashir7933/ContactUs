@@ -1,0 +1,170 @@
+.sectionSevenFormContainer{
+   border: 1px solid #eee;
+    width:600px;
+    height:864px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: -120px;
+    gap:10px;
+ }
+
+.sectionSevenFormTitleContainer{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+
+}
+.sectionSevenFormTitleContainer h1{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 30px;
+    border: 1px solid blue  ;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px; /* 125% */
+    text-transform: capitalize;
+}
+
+.sectionSevenFormTitleContainer h3{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 19px;
+    width: 590px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 116.667% */
+    letter-spacing: 0.72px;
+
+}
+
+.form{
+    height:max-content;
+    width: 590px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap:20px;
+    border: 1px solid green;
+}
+
+.sectionSevenFormGroup{
+    display: flex;
+    flex-direction: column;
+    height: 84px;
+    justify-content: center;
+    align-items: start;
+    width: 320px;
+    border: 1px solid #eee;
+    
+}
+
+.sectionSevenFormGroupMessage {
+    display: flex;
+    flex-direction: column;
+    height: 140px;
+    justify-content: center;
+    align-items: start;
+    width: 441px;;
+    border: 1px solid #eee;
+}
+
+.sectionSevenFormGroupMessage input{
+    height:90%;
+    width:99%;
+    background: transparent;
+    border-radius: 5px;
+    border: 1px solid white;
+    outline: none;
+    margin:5px 0px;
+    text-indent: 20px;
+    font-size: 20px;
+}
+
+.sectionSevenFormGroup label, .sectionSevenFormGroupMessage label{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px; /* 135% */
+    letter-spacing: 0.6px;}
+
+
+.sectionSevenFormGroup input{
+    height:50px;
+    width:99%;
+    background: transparent;
+    border-radius: 5px;
+    border: 1px solid white;
+    outline: none;
+    margin:5px 0px;
+    text-indent: 20px;
+    border: 1px solid #eee;
+    font-size: 20px;
+    
+}
+
+
+.sectonSevenFormBottom{
+    height:93px;
+    display: grid;
+    place-items: center start;
+    gap:5px;
+}
+
+.sectionSevenBottomTop{
+    height:100%;
+    display: grid;
+    place-items: center start ;
+    gap:0px;
+    color:#FFFFFF;
+}
+
+.sectionSeveRadioContainer{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100%;
+    gap:20px;   
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.sectionSeveRadioContainer input {
+    cursor:pointer;
+    height:50px;
+    width:20px;
+    
+}
+
+.sectionSevenFormTitle h4{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.sectionSevenFormContainer button{
+    display: flex;
+    width: 247px;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #0D101F;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+border: none;
+    border-radius: 10px;
+background: #FA9E36;
+box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.10), 0px 14px 30px 0px rgba(0, 0, 0, 0.10), 0px 125px 75px 0px rgba(0, 0, 0, 0.05), 0px 347px 97px 0px rgba(0, 0, 0, 0.00);
+}
+
+::placeholder {
+    color: rgb(238, 238, 238);
+    opacity: 0.6; /* Firefox */
+  }
+
